@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Crear una cuenta de Mobipaid</name>
+   <tag></tag>
+   <elementGuidId>f9d5d845-7afd-477e-92b0-f4fd6377722d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='body']/div[2]/div/div/div/div[2]/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.merchant-register-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3e2a9798-6d78-4f17-9ea7-69169544b317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>merchant-register-text</value>
+      <webElementGuid>9b52d1c9-957e-4e21-b8c7-9872e5c80180</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Crear una cuenta de Mobipaid</value>
+      <webElementGuid>cab070ac-a4cf-4e73-b8c1-f16c822a76cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;register-wrapper&quot;]/div[@class=&quot;register-padding&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-7 col-md-7 register-mobi-right&quot;]/div[@class=&quot;text-center logo-marg visible-xs visible-sm&quot;]/div[@class=&quot;col-lg-6 col-md-5 mrt-margin-bot&quot;]/span[@class=&quot;merchant-register-text&quot;]</value>
+      <webElementGuid>273c93d9-f45e-44ff-81e4-7fa5ef93fa89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='body']/div[2]/div/div/div/div[2]/div/div[2]/span</value>
+      <webElementGuid>f165977e-9785-4e1a-9fd0-d498890508e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/span</value>
+      <webElementGuid>87f9b593-bb07-43dd-b809-877f8d12f6c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Crear una cuenta de Mobipaid' or . = 'Crear una cuenta de Mobipaid')]</value>
+      <webElementGuid>b0380bd1-9074-4d67-a35a-1a11c7ed3a18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

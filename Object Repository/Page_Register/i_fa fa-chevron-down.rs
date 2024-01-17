@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_fa fa-chevron-down</name>
+   <tag></tag>
+   <elementGuidId>8648bc28-f4a4-47c6-bb65-7156fa7f0e05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='body']/div[2]/div/div/div/div[2]/div[2]/div/div/center/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-chevron-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d51ed4c6-fee0-4da2-889c-ce0363f3e2f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-chevron-down</value>
+      <webElementGuid>e8b7e64c-bc23-4f15-8476-49ad8791e28c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;register-wrapper&quot;]/div[@class=&quot;register-padding&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-7 col-md-7 register-mobi-right&quot;]/div[@class=&quot;row lang-login-div-mob&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-xs-6 no-padding-left-right&quot;]/center[1]/div[@class=&quot;btn-group dropdown register-lang-mob-position&quot;]/button[@class=&quot;btn btn-language-switch btn-language-switch-login btn-link dropdown-toggle&quot;]/i[@class=&quot;fa fa-chevron-down&quot;]</value>
+      <webElementGuid>90cd2fc2-b72c-462d-88c0-36f1c54f3a3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='body']/div[2]/div/div/div/div[2]/div[2]/div/div/center/div/button/i</value>
+      <webElementGuid>2ebd1e9d-ddbf-49b4-9bb1-d7ae7383bf70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>b4c7850f-cf6d-49db-b734-f2064689c5fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

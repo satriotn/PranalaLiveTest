@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_</name>
+   <tag></tag>
+   <elementGuidId>aac0f1f9-45b8-4cfa-ba23-f1d5c88ccfa4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='body']/div[2]/div/div/div/div[2]/div[2]/div/div/center/div/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(4) > a.switch-lang</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cd7fb6d6-96ba-4f21-9451-534c7fd8e642</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://stage.mobipaid.com/fr/register</value>
+      <webElementGuid>c18110b1-506e-42be-85d4-bd2598874c25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>switch-lang</value>
+      <webElementGuid>5b629351-4b47-4814-ac27-6873b4fb778c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  </value>
+      <webElementGuid>d2a83296-441d-4591-bf55-c9f2caa7cbc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;register-wrapper&quot;]/div[@class=&quot;register-padding&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-7 col-md-7 register-mobi-right&quot;]/div[@class=&quot;row lang-login-div-mob&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-xs-6 no-padding-left-right&quot;]/center[1]/div[@class=&quot;btn-group dropdown register-lang-mob-position open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[4]/a[@class=&quot;switch-lang&quot;]</value>
+      <webElementGuid>cee5f970-6570-4f19-9cc3-5e3ddd789819</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='body']/div[2]/div/div/div/div[2]/div[2]/div/div/center/div/ul/li[4]/a</value>
+      <webElementGuid>7dab8c70-a8d0-4ed7-b418-d9807171bd54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://stage.mobipaid.com/fr/register')]</value>
+      <webElementGuid>cc2662bc-bc43-4a29-b22c-c666dba0e137</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>4e81eebc-c214-4921-8338-7540a819f9c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://stage.mobipaid.com/fr/register' and (text() = '  ' or . = '  ')]</value>
+      <webElementGuid>6305d9a8-eddd-4d4f-a53b-48c20563110f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

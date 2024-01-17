@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Crer un compte Mobipaid</name>
+   <tag></tag>
+   <elementGuidId>9d881b99-8c18-4ab9-bd7e-9b0ff162f5af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='body']/div[2]/div/div/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-6.col-md-5.mrt-margin-bot</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cc6b25a7-e78a-45d6-9223-571ba8e8bb08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-lg-6 col-md-5 mrt-margin-bot</value>
+      <webElementGuid>15a88f85-889d-4d6b-b8b9-26ba8d089405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Créer un compte Mobipaid</value>
+      <webElementGuid>b3cbb86c-7c3f-4d2c-9362-df01094ab88c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;register-wrapper&quot;]/div[@class=&quot;register-padding&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-7 col-md-7 register-mobi-right&quot;]/div[@class=&quot;text-center logo-marg visible-xs visible-sm&quot;]/div[@class=&quot;col-lg-6 col-md-5 mrt-margin-bot&quot;]</value>
+      <webElementGuid>75cedfe7-0ef7-4802-b0ac-eeffa8a6ed18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='body']/div[2]/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>2fe53651-fa98-4b11-9dfb-01a169b314de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>9e863175-29d9-47a4-ba92-0687b0da2bf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Créer un compte Mobipaid' or . = 'Créer un compte Mobipaid')]</value>
+      <webElementGuid>cd34cd53-ff8f-4b6a-854c-20d0a88b991b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

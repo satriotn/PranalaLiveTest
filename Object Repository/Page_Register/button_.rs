@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>424761e6-398b-4c34-8125-b56eb99738fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='body']/div[2]/div/div/div/div[2]/div[2]/div/div/center/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-language-switch.btn-language-switch-login.btn-link.dropdown-toggle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dfd541f3-1803-44d8-8817-576829e08c32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-language-switch btn-language-switch-login btn-link dropdown-toggle</value>
+      <webElementGuid>a339aa8d-673d-42a5-bc90-4b1b9f433659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>9977e94a-5845-468e-a703-1ab255aae727</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>7e3d7088-f484-44f9-958f-70fcc618688d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                         
+                    </value>
+      <webElementGuid>24a4fcf0-fe17-4d73-acd4-c75f68711e67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;register-wrapper&quot;]/div[@class=&quot;register-padding&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-7 col-md-7 register-mobi-right&quot;]/div[@class=&quot;row lang-login-div-mob&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-xs-6 no-padding-left-right&quot;]/center[1]/div[@class=&quot;btn-group dropdown register-lang-mob-position&quot;]/button[@class=&quot;btn btn-language-switch btn-language-switch-login btn-link dropdown-toggle&quot;]</value>
+      <webElementGuid>7a60bac4-ef47-43eb-9a00-292505e74997</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='body']/div[2]/div/div/div/div[2]/div[2]/div/div/center/div/button</value>
+      <webElementGuid>b069b9fd-50cf-4f53-94ae-82ffe1232de0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//center/div/button</value>
+      <webElementGuid>e516f49f-8594-4e4d-a5d5-eacb777d4826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                         
+                    ' or . = '
+                         
+                    ')]</value>
+      <webElementGuid>6ebe6d30-e43a-4a5d-9c6d-929d7d5e9cca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
